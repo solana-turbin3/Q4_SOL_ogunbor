@@ -1,3 +1,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/ogunbor/amm.git
+[submodule "prime-nest"]
+	path = prime-nest
+	url = https://github.com/ogunbor/prime-nest
